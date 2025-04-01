@@ -1,3 +1,15 @@
+---
+
+
+# 🧠 LeetCode Solutions by Abiodun Adebayo
+
+This repository contains my personal solutions to various [LeetCode](https://leetcode.com/) problems.  
+I'm solving these to build a strong foundation in algorithms, data structures, and database queries.
+
+---
+
+## 📂 Folder Structure
+
 
 ---
 
